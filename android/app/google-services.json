@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "524508495910",
+    "project_id": "flutter-yummy-milktea-shop",
+    "storage_bucket": "flutter-yummy-milktea-shop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524508495910:android:044d3b9ffa16a98fbda6e7",
+        "android_client_info": {
+          "package_name": "com.example.assignment_10"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNqc4GKpPGFy2-l9LHXdwlpqqJFNmVjdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524508495910:android:4bfceedcd8a93004bda6e7",
+        "android_client_info": {
+          "package_name": "com.example.flutter_assignment_10"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNqc4GKpPGFy2-l9LHXdwlpqqJFNmVjdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
